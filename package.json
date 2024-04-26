@@ -1,0 +1,20 @@
+{
+  "name": "inventorymanager",
+  "version": "1.0.0",
+  "description": "keep track to company's inventory",
+  "main": "backend/src/main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielhz/inventorymanager.git"
+  },
+  "author": "Gabriel Ramos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielhz/inventorymanager/issues"
+  },
+  "homepage": "https://github.com/gabrielhz/inventorymanager#readme"
+}
